@@ -1,0 +1,17 @@
+2023-04-03 03:07:18.371327 - Initialized conversion of CBT849
+2023-04-03 03:07:18.499408 - Received CBT.V504.FILE849.PDS from FILE849.XMI 
+2023-04-03 03:07:18.502446 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE849.PDS, moved to PDS/$$$#DATE
+2023-04-03 03:07:18.503936 - Found @FILE849.txt (text/plain) in CBT.V504.FILE849.PDS, moved to PDS/@FILE849
+2023-04-03 03:07:18.504937 - Found DA.txt (text/plain) in CBT.V504.FILE849.PDS, moved to PDS/DA
+2023-04-03 03:07:18.506161 - Found DA$.jcl (text/plain) in CBT.V504.FILE849.PDS, moved to PDS/DA$
+2023-04-03 03:07:18.507295 - Found DAP.txt (text/plain) in CBT.V504.FILE849.PDS, moved to PDS/DAP
+2023-04-03 03:07:18.508297 - Found DA38.jcl (text/plain) in CBT.V504.FILE849.PDS, moved to PDS/DA38
+2023-04-03 03:07:18.509277 - Found DT.txt (text/plain) in CBT.V504.FILE849.PDS, moved to PDS/DT
+2023-04-03 03:07:18.510241 - Found DT$.jcl (text/plain) in CBT.V504.FILE849.PDS, moved to PDS/DT$
+2023-04-03 03:07:18.511473 - Found DT$1.jcl (text/plain) in CBT.V504.FILE849.PDS, moved to PDS/DT$1
+2023-04-03 03:07:18.512555 - Found DTP.txt (text/plain) in CBT.V504.FILE849.PDS, moved to PDS/DTP
+2023-04-03 03:07:18.513596 - Found DT38.jcl (text/plain) in CBT.V504.FILE849.PDS, moved to PDS/DT38
+2023-04-03 03:07:18.514581 - Found TSOB.rexx (text/plain) in CBT.V504.FILE849.PDS, moved to PDS/TSOB
+2023-04-03 03:07:18.515530 - Found TSOE.rexx (text/plain) in CBT.V504.FILE849.PDS, moved to PDS/TSOE
+2023-04-03 03:07:18.516876 - Found TSOR.rexx (text/plain) in CBT.V504.FILE849.PDS, moved to PDS/TSOR
+2023-04-03 03:07:18.517922 - Found TSOV.rexx (text/plain) in CBT.V504.FILE849.PDS, moved to PDS/TSOV
